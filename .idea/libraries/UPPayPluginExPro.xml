@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="UPPayPluginExPro">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/libs/jar/UPPayPluginExPro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/UPPayAssistEx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/android/libs/jar/UPPayPluginExPro.jar!/" />
+    </SOURCES>
+  </library>
+</component>
