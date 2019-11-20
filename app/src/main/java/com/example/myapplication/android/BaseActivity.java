@@ -21,6 +21,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.myapplication.R;
+
 
 public abstract class BaseActivity extends Activity implements Callback,
         Runnable {
