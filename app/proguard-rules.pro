@@ -22,3 +22,4 @@
 
 -dontwarn com.unionpay.**
 -keep com.unionpay.** {*;}
+-keep org.simalliance.openmobileapi.** {*;}
